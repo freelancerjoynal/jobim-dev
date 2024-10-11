@@ -36,6 +36,7 @@ const JobBoard = () => {
 
   return (
     <>
+    Hellow 
       <SearchBar />
       <div className="container mx-auto mt-14">
         <Image src={HeroPic} className="mx-auto" alt="Jobim Intro Image" />
