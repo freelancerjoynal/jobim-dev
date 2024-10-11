@@ -1,0 +1,1 @@
+<img class="w-10 rounded-md" src="{{asset('/images/logo.jpg')}}" alt="">

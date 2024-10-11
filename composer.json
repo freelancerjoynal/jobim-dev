@@ -1,0 +1,6 @@
+{
+    "require": {
+        "intervention/image": "^3.8",
+        "spatie/laravel-medialibrary": "^11.9"
+    }
+}
